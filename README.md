@@ -1,15 +1,13 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="余味 · Java 后端开发" />
+  <img src="./assets/hero.svg" width="100%" alt="YuWei · 构建简单、可靠的软件" />
 </p>
 
-### 你好，我是 余味
+### 你好，我是 YuWei
 
-**Java 后端开发**是我的主要方向，喜欢构建清晰、可靠、易维护的服务端系统。  
-工作之外热爱开源，也喜欢折腾 `Docker`、`Linux` 和 `Homelab`。
+一名热爱开源的全栈开发者，关注 **开发者工具、云原生与基础设施**。  
+喜欢把复杂的技术问题，做成简单、实用、可靠的产品。
 
-个人博客：[**www.yuweinfo.com ↗**](https://www.yuweinfo.com)
-
-### 业余开源作品
+### 精选作品
 
 <p align="center">
   <a href="https://github.com/AfterYuWei/suma"><img src="./assets/suma.svg" width="49%" alt="SUMA · 多节点 Docker 管理平台" /></a>
@@ -17,17 +15,16 @@
 </p>
 <p align="center">
   <a href="https://github.com/AfterYuWei/NginxOps"><img src="./assets/nginxops.svg" width="49%" alt="NginxOps · 可视化 Nginx 运维" /></a>
-  <a href="https://www.yuweinfo.com"><img src="./assets/blog.svg" width="49%" alt="Blog · www.yuweinfo.com" /></a>
+  <a href="https://github.com/AfterYuWei?tab=repositories"><img src="./assets/explore.svg" width="49%" alt="查看全部开源项目" /></a>
 </p>
 
-### 技术与兴趣
+### 技术与方向
 
-**主要方向** · `Java` `Spring Boot` `MySQL` `Redis` `PostgreSQL`  
-**其他探索** · `Go` `TypeScript` `Rust` `React`  
-**业余爱好** · `Docker` `Linux` `Kubernetes` `Nginx` `Homelab`
+**应用开发** · `Go` `TypeScript` `Rust` `React` `Java`  
+**基础设施** · `Docker` `Kubernetes` `Linux` `Nginx` `PostgreSQL`
 
-### 一些想法
+### 正在关注
 
-专注于 Java 后端与工程实践；空闲时持续探索自托管、自动化和有趣的开发者工具。
+构建更易用的运维与开发工具，探索 AI 与云原生技术在真实场景中的应用。
 
-[查看全部仓库 ↗](https://github.com/AfterYuWei?tab=repositories)
+[查看全部仓库 ↗](https://github.com/AfterYuWei?tab=repositories) · [GitHub ↗](https://github.com/AfterYuWei)
