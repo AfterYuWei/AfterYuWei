@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="YuWei 构建简单可靠的软件">
+<rect width="1200" height="340" rx="24" fill="#080808"/>
+<text x="68" y="73" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" letter-spacing="4" fill="#A7A7A7">AFTER YUWEI <tspan fill="#555">/</tspan> OPEN SOURCE</text>
+<text x="64" y="188" font-family="Arial, Helvetica, sans-serif" font-size="100" font-weight="700" letter-spacing="-6" fill="#FFFFFF">YuWei<tspan fill="#979797">.</tspan></text>
+<text x="68" y="242" font-family="Noto Sans Mono CJK SC, Noto Sans CJK SC, Microsoft YaHei, PingFang SC, sans-serif" font-size="27" font-weight="400" fill="#D8D8D8">构建简单、可靠的软件。</text>
+<text x="68" y="295" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="500" letter-spacing="2.3" fill="#858585">BUILD  /  SHIP  /  IMPROVE</text>
+<!-- Right-side architectural geometry: understated modular shapes -->
+<rect x="855" y="62" width="224" height="224" rx="3" fill="#1B1B1B"/>
+<rect x="888" y="95" width="158" height="158" rx="2" fill="#343434"/>
+<rect x="918" y="125" width="98" height="98" rx="2" fill="#F0F0F0"/>
+<rect x="942" y="149" width="50" height="50" rx="1" fill="#080808"/>
+<rect x="1024" y="45" width="25" height="25" rx="1" fill="#F0F0F0"/>
+<rect x="1072" y="93" width="15" height="15" rx="1" fill="#858585"/>
+</svg>
