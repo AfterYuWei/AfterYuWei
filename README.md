@@ -24,15 +24,15 @@
 
 **主要方向**
 
-<img src="./assets/stack-backend.png" width="298" alt="Java、Spring Boot、MySQL、Redis、PostgreSQL" />
+<img src="./assets/stack-backend.svg" width="447" alt="Java、Spring Boot、MySQL、Redis、PostgreSQL" />
 
 **其他探索**
 
-<img src="./assets/stack-explore.png" width="236" alt="Go、TypeScript、Rust、React" />
+<img src="./assets/stack-explore.svg" width="354" alt="Go、TypeScript、Rust、React" />
 
 **业余爱好**
 
-<img src="./assets/stack-homelab.png" width="236" alt="Docker、Linux、Kubernetes、Nginx" />
+<img src="./assets/stack-homelab.svg" width="354" alt="Docker、Linux、Kubernetes、Nginx" />
 
 ### 一些想法
 
