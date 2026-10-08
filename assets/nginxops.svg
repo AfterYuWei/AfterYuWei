@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="570" height="224" viewBox="0 0 570 224" role="img" aria-label="NginxOps 可视化 Nginx 运维管理">
 <rect width="570" height="224" rx="17" fill="#111111"/>
-<text x="32" y="45" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" letter-spacing="2.3" fill="#838383">PROJECT / 03</text>
+<text x="32" y="45" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" letter-spacing="2.3" fill="#838383">OPEN SOURCE / 03</text>
 <text x="30" y="132" font-family="Arial, Helvetica, sans-serif" font-size="53" font-weight="700" letter-spacing="-1.5" fill="#FFFFFF">NginxOps</text>
 <text x="33" y="179" font-family="Noto Sans Mono CJK SC, Noto Sans CJK SC, Microsoft YaHei, PingFang SC, sans-serif" font-size="21" fill="#B0B0B0">可视化 Nginx 运维管理</text>
 <rect x="458" y="57" width="30" height="30" rx="5" fill="#E5E5E5"/><rect x="518" y="117" width="30" height="30" rx="5" fill="none" stroke="#BFBFBF" stroke-width="3"/><rect x="458" y="117" width="30" height="30" rx="5" fill="none" stroke="#BFBFBF" stroke-width="3"/><path d="M473 87 V102 H533 V117 M473 102 V117" stroke="#BFBFBF" fill="none" stroke-width="3"/>
